@@ -1,5 +1,16 @@
 [
   {
+    "id": 1768695715049,
+    "name": "المنتج الجميل",
+    "price": "77,000",
+    "img": "https://raw.githubusercontent.com/Majd2004/dashboardtest/main/images/img_1768695656520_253.png",
+    "desc": "ققث\nفقل\nفقل\n\nقفل\nلفق\nل\nقلقفل",
+    "old_price": "100,000",
+    "badge_text": "وصل حديثا",
+    "cat": "ملابسات",
+    "is_offer": false
+  },
+  {
     "id": 1768429606049,
     "name": "مجد حبيب القلب",
     "price": "غاليييي",
