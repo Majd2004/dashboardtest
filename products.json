@@ -1,5 +1,16 @@
 [
   {
+    "id": 1768697157913,
+    "name": "يقفافبا",
+    "price": "510000",
+    "img": "https://raw.githubusercontent.com/Majd2004/dashboardtest/main/images/img_1768697137628_272.png",
+    "desc": "فللاافلافا\nغاعت\nغف\nتغ\nات\nغا\nت\nت\nغاع\nت\nغات",
+    "old_price": "645445",
+    "badge_text": "ابلافلقالا",
+    "cat": "لفيا",
+    "is_offer": false
+  },
+  {
     "id": 1768695715049,
     "name": "المنتج الجميل",
     "price": "77,000",
